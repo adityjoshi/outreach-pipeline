@@ -3,8 +3,7 @@
 A fully automated cold-outreach engine written in Go. A human provides **one seed company domain** — the system handles everything after that: finding similar companies, identifying decision-makers, resolving verified work emails, and sending personalized outreach. No copy-paste, no manual handoffs between stages.
 
 
-
-https://github.com/user-attachments/assets/fbc2ddae-be18-421b-bfdd-544652109684
+<video src="https://github.com/user-attachments/assets/fbc2ddae-be18-421b-bfdd-544652109684" controls width="100%"></video>
 
 
 
